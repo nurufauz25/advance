@@ -1,0 +1,10 @@
+<!DOCTYPE html> 
+<htmllang="en"> 
+	<head> <title>Search</title> </head> 
+	<body> 
+		<formaction="https://www.google.com/search"> 
+		<inputtype="text"name="q">
+		 <inputtype="submit"value="GoogleSearch">
+		  </form>
+		   </body>
+		    </html>
